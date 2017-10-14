@@ -40,10 +40,10 @@
     "regenerator-runtime": "^0.11.0",
     "renamer": "^0.6.1",
     "rimraf": "^2.6.1",
-    "stats-webpack-plugin": "^0.6.1",
     "webpack": "^3.7.1",
     "webpack-dev-server": "^2.9.1",
     "webpack-node-externals": "^1.6.0",
+    "webpack-partial": "^2.1.0",
     "webpack-udev-server": "^0.7.1"
   },
   "dependencies": {
