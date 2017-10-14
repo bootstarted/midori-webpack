@@ -1,5 +1,5 @@
 const path = require('path');
-const StatsPlugin = require('stats-webpack-plugin');
+const StatsPlugin = require('./StatsPlugin');
 
 module.exports = {
   entry: './index.js',
