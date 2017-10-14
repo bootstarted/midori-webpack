@@ -1,5 +1,13 @@
 # midori-webpack
 
+Combine [midori] and [webpack] ❤️.
+
+![build status](http://img.shields.io/travis/metalabdesign/midori-webpack/master.svg?style=flat)
+![coverage](https://img.shields.io/codecov/c/github/metalabdesign/midori-webpack/master.svg?style=flat)
+![license](http://img.shields.io/npm/l/midori-webpack.svg?style=flat)
+![version](http://img.shields.io/npm/v/midori-webpack.svg?style=flat)
+![downloads](http://img.shields.io/npm/dm/midori-webpack.svg?style=flat)
+
 If you're serving [webpack] assets or need to attach information about your webpack assets to your [midori] request handler then you can use `midori-webpack` to do just that. Usage is simple and also supports development mode using both [webpack-dev-server] and [webpack-udev-server].
 
 ## Usage
